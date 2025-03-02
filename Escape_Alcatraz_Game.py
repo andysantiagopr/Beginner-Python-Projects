@@ -1,5 +1,5 @@
 # ---------------------------------------------------
-# Project: Day 3 - Escape-Alcatraz-Game
+# Project: Day 3 - Escape_Alcatraz_Game
 # Course: 100 Days of Python (Udemy)
 # Author: Angel Santiago
 # Date: 2 MAR 2025
@@ -10,6 +10,10 @@
 # - Combine logic with string comparisons.
 # - Build a simple text-based game using what we’ve learned so far.
 # ---------------------------------------------------
+
+## How to Run
+```bash
+python escape_alcatraz_game.py
 
 print(r'''
       ================================
